@@ -134,6 +134,7 @@
 
 .unique-components-card:hover .unique-components-card-body {
   right: 0;
+  cursor: pointer;
 }
 
 .unique-components-group {
@@ -183,9 +184,11 @@
   cursor: pointer;
 }
 
+
 .unique-components-card-title-btn:hover {
   color: #fd9222;
   background: #fcf1e0;
+ 
 }
 
 .unique-components-card-benefits-btn {
@@ -198,9 +201,11 @@
   cursor: pointer;
 }
 
+
 .unique-components-card-benefits-btn:hover {
   color: #fff;
   background: #fd9222;
+
 }
 /* unique-components-card-description */
 
